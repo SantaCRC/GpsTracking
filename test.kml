@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+   <Style id="randomColorIcon">
+      <IconStyle>
+         <color>ff00ff00</color>
+         <colorMode>normal</colorMode>
+         <scale>1.1</scale>
+         <Icon>
+            <href>globo.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+   <Placemark>
+      <name></name>
+      <description>Altitud:1477</description>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+         <coordinates>-83.9097,9.857547999998895,1477</coordinates>
+      </Point>
+   </Placemark>
+</Document>
+</kml>
